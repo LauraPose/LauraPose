@@ -32,7 +32,7 @@ In the December 2020 I have also passed exams for ITIL v4 and DevOps certificati
 </p>
 
 
-<p align='left'> You can view my resume <a href='https://docs.google.com/document/u/1/d/0B8Gfd7iuDTl5ZWNnUUFoSWhMZnc/edit?usp=drive_web&ouid=113797290660592368932&rtpof=true ' target=_blank><u>here</u> </a> or my LinkedIn profile <a href='https://www.linkedin.com/in/laura-posemkiewicz-66334bb4/' target=_blank><u>here</u></a>.</p>
+<p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1UMhmPgZ9s3PDTgznPwGU2Z6oWYq1VqKv/view?usp=sharing' target=_blank><u>here</u> </a> or my LinkedIn profile <a href='https://www.linkedin.com/in/laura-posemkiewicz-66334bb4/' target=_blank><u>here</u></a>.</p>
 <!--
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=LauraPose alt=LauraPose /> </p>
